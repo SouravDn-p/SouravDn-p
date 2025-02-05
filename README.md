@@ -1,4 +1,9 @@
 # 🌟 Sourav Debnath | Web Developer
+
+<div align="center">
+    <img src="https://github.com/SouravDn-p/banner.png" alt="Sourav Debnath Banner" width="100%" />
+</div>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sourav+Debnath!;" />
 </h1>
@@ -64,5 +69,3 @@ Hi! I'm Sourav Debnath, a CSE student at Green University and a passionate Web D
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
----
