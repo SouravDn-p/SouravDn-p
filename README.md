@@ -1,4 +1,7 @@
 # 🌟 Sourav Debnath | Web Developer
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sourav+Debnath!;" />
+</h1>
 
 ## 👋 About Me
 Hi! I'm Sourav Debnath, a CSE student at Green University and a passionate Web Developer from Bangladesh. I have a strong background in the MERN stack and am currently learning Next.js to build high-performance applications. I enjoy solving problems, optimizing code, and creating seamless user experiences.
