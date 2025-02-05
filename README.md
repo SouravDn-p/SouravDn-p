@@ -1,7 +1,7 @@
 # 🌟 Sourav Debnath | Web Developer
 
 ## 👋 About Me
-Hi! I'm *Sourav Debnath*, a passionate *Web Developer* from Bangladesh. I have a strong background in the *MERN stack* and am currently learning *Next.js* to build high-performance applications. I love solving problems, optimizing code, and creating seamless user experiences.
+Hi! I'm Sourav Debnath, a CSE student at Green University and a passionate Web Developer from Bangladesh. I have a strong background in the MERN stack and am currently learning Next.js to build high-performance applications. I enjoy solving problems, optimizing code, and creating seamless user experiences.
 
 ## 🚀 What I'm Currently Doing
 - 🚀 *Diving deep into Next.js* to build high-performance applications  
