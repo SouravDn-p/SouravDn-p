@@ -15,7 +15,11 @@ Hi! I'm **Sourav Debnath**, a **CSE student at Green University** and a **passio
 - 🎨 *Enhancing UI/UX skills* using Figma for better design experiences  
 
 ---
+## 📍 Location & Contact  
+📍 **Location:* Brahmanbaria , Dhaka * Bangladesh  
+📧 **Email:** [sdsouravdebnath26@gmail.com](mailto:sdsouravdebnath26@gmail.com)  
 
+---
 ## 🛠 Tech Stack & Tools
 
 ### 🌐 Frontend Development  
