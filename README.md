@@ -1,7 +1,7 @@
 # 🌟 Sourav Debnath | Web Developer
 
 <div align="center">
-    <img src="https://github.com/SouravDn-p/banner.png" alt="Sourav Debnath Banner" width="100%" />
+    <img src="banner.png" alt="Sourav Debnath Banner" width="100%" />
 </div>
 
 <h1 align="center">
