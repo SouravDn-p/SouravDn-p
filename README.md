@@ -7,7 +7,7 @@
 </h1>
 
 ## 👋 About Me
-Hi! I'm Sourav Debnath, a CSE student at Green University and a passionate Web Developer from Bangladesh. I have a strong background in the MERN stack and am currently learning Next.js to build high-performance applications. I enjoy solving problems, optimizing code, and creating seamless user experiences.
+Hi! I'm **Sourav Debnath**, a **CSE student at Green University** and a **passionate Web Developer** from Bangladesh. I have a strong background in the **MERN stack** and am currently learning **Next.js** to build high-performance applications. I enjoy solving problems, optimizing code, and creating seamless user experiences.
 
 ## 🚀 What I'm Currently Doing
 - 🚀 *Diving deep into Next.js* to build high-performance applications  
@@ -18,14 +18,19 @@ Hi! I'm Sourav Debnath, a CSE student at Green University and a passionate Web D
 
 ## 🛠 Tech Stack & Tools
 
-### 🌐 Frontend Development & Tools  
+### 🌐 Frontend Development  
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,tailwind" />
 </div>
 
 ### ⚙️ Backend Development  
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,nextjs,typescript,javascript" />
+</div>
+
+### ⚒️ Tools & Platforms  
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel" />
 </div>
 
 ---
