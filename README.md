@@ -7,39 +7,67 @@
 </h1>
 
 ## 👋 About Me
-Hi! I'm **Sourav Debnath**, a **CSE student at Green University** and a **passionate Web Developer** from Bangladesh. I have a strong background in the **MERN stack** and am currently learning **Next.js** to build high-performance applications. I enjoy solving problems, optimizing code, and creating seamless user experiences.
+Hi! I'm Sourav Debnath, a Full Stack Developer and CSE student at Green University of Bangladesh. I specialize in building scalable, high-performance web applications using the MERN stack, PERN stack, and modern backend systems with NestJS. I'm passionate about clean architecture, developer experience, and delivering robust end-to-end solutions.
 
-## 🚀 What I'm Currently Doing
-- 🚀 *Diving deep into Next.js* to build high-performance applications  
-- 💻 *Working on exciting new projects* (Let's collaborate!)  
-- 🎨 *Enhancing UI/UX skills* using Figma for better design experiences  
+🔭 Currently building full-stack apps with NestJS + PostgreSQL + Prisma ORM
+🌱 Deepening expertise in distributed systems, REST API design, and cloud databases
+🚀 Working with Supabase, Neon DB, and serverless PostgreSQL deployments
+👨‍💻 Led team development on rexAuction — a real-time auction platform with Socket.io
+🤝 Open to collaboration on exciting full-stack projects!
+
+🚀 What I'm Currently Doing
+
+⚙️ Building production-ready REST APIs with NestJS, Prisma ORM, and PostgreSQL
+🗄️ Exploring cloud-native databases — Supabase, Neon DB, and managed PostgreSQL
+💡 Architecting full-stack systems combining Next.js frontends with NestJS backends
+🎨 Polishing UI/UX skills with Tailwind CSS and Framer Motion
 
 ---
-## 📍 Location & Contact  
-📍 **Location:** Brahmanbaria , Dhaka , Bangladesh  
-📧 **Email:** [sdsouravdebnath26@gmail.com](mailto:sdsouravdebnath26@gmail.com)  
+
+## 📍 Location & Contact
+
+📍 Location: Brahmanbaria, Dhaka, Bangladesh
+📧 Email: sdsouravdebnath26@gmail.com
+📱 Phone: +880 1328 764 976
+🌐 Portfolio: sourav-debnath-sd246.vercel.app
 
 ---
+
 ## 🛠 Tech Stack & Tools
 
-### 🌐 Frontend Development  
+### 🌐 Frontend Development
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,html,css,figma" />
 </div>
 
-### ⚙️ Backend Development  
+### ⚙️ Backend Development
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,nextjs,typescript,javascript" />
+    <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,prisma,postgres,mongodb,firebase" />
 </div>
 
-### ⚒️ Tools & Platforms  
+🗄️ Databases & Cloud
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Neon_DB-00E5BF?style=for-the-badge&logo=postgresql&logoColor=black" alt="Neon DB"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase"/>
+</div>
+
+### ⚒️ Tools & Platforms
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel" />
 </div>
 
 ---
 
-## 🔗 Connect with Me  
+## 🔗 Connect with Me
+
 <div align="center">
 
 <a href="https://github.com/SouravDn-p" target="_blank">
@@ -50,13 +78,14 @@ Hi! I'm **Sourav Debnath**, a **CSE student at Green University** and a **passio
 </a>  
 <a href="https://www.facebook.com/Sourav.Debnath.246" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>  
+</a>
 
 </div>
 
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SouravDn-p&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=SouravDn-p&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Languages Used" />
@@ -70,9 +99,33 @@ Hi! I'm **Sourav Debnath**, a **CSE student at Green University** and a **passio
 
 ---
 
-## 🐍 GitHub Contribution Snake  
+## 🐍 GitHub Contribution Snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+
+## 🔗 Connect with Me
+<div align="center">
+<a href="https://github.com/SouravDn-p" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/souravdebnath246/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://sourav-debnath-sd246.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.facebook.com/Sourav.Debnath.246" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="mailto:sdsouravdebnath26@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SouravDn-p&color=1A56B0&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
