@@ -15,27 +15,27 @@
 
 Hi! I'm Sourav Debnath, a Full Stack Developer and CSE student at Green University of Bangladesh. I specialize in building scalable, high-performance web applications using the MERN stack, PERN stack, and modern backend systems with NestJS. I'm passionate about clean architecture, developer experience, and delivering robust end-to-end solutions.
 
-🔭 Currently building full-stack apps with NestJS + PostgreSQL + Prisma ORM
-🌱 Deepening expertise in distributed systems, REST API design, and cloud databases
-🚀 Working with Supabase, Neon DB, and serverless PostgreSQL deployments
-👨‍💻 Led team development on rexAuction — a real-time auction platform with Socket.io
-🤝 Open to collaboration on exciting full-stack projects!
+- 🔭 Currently building full-stack apps with NestJS + PostgreSQL + Prisma ORM
+- 🌱 Deepening expertise in distributed systems, REST API design, and cloud databases
+- 🚀 Working with Supabase, Neon DB, and serverless PostgreSQL deployments
+- 👨‍💻 Led team development on rexAuction — a real-time auction platform with Socket.io
+- 🤝 Open to collaboration on exciting full-stack projects!
 
 🚀 What I'm Currently Doing
 
-⚙️ Building production-ready REST APIs with NestJS, Prisma ORM, and PostgreSQL
-🗄️ Exploring cloud-native databases — Supabase, Neon DB, and managed PostgreSQL
-💡 Architecting full-stack systems combining Next.js frontends with NestJS backends
-🎨 Polishing UI/UX skills with Tailwind CSS and Framer Motion
+- ⚙️ Building production-ready REST APIs with NestJS, Prisma ORM, and PostgreSQL
+- 🗄️ Exploring cloud-native databases — Supabase, Neon DB, and managed PostgreSQL
+- 💡 Architecting full-stack systems combining Next.js frontends with NestJS backends
+- 🎨 Polishing UI/UX skills with Tailwind CSS and Framer Motion
 
 ---
 
 ## 📍 Location & Contact
 
-📍 Location: Brahmanbaria, Dhaka, Bangladesh
-📧 Email: sdsouravdebnath26@gmail.com
-📱 Phone: +880 1328 764 976
-🌐 Portfolio: sourav-debnath-sd246.vercel.app
+- 📍 Location: Brahmanbaria, Dhaka, Bangladesh
+- 📧 Email: sdsouravdebnath26@gmail.com
+- 📱 Phone: +880 1328 764 976
+- 🌐 Portfolio: sourav-debnath-sd246.vercel.app
 
 ---
 
@@ -44,7 +44,7 @@ Hi! I'm Sourav Debnath, a Full Stack Developer and CSE student at Green Universi
 ### 🌐 Frontend Development
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,html,css,figma" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,html,css" />
 </div>
 
 ### ⚙️ Backend Development
@@ -67,7 +67,7 @@ Hi! I'm Sourav Debnath, a Full Stack Developer and CSE student at Green Universi
 ### ⚒️ Tools & Platforms
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel,aws,docker" />
 </div>
 
 ---
