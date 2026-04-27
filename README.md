@@ -1,12 +1,18 @@
 <div align="center">
     <img src="banner.png" alt="Sourav Debnath Banner" width="100%" />
 </div>
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sourav+Debnath!;+A+Passionate+Web+Developer!;+MERN+Stack+Enthusiast!;+Currently+Learning+Next.js!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Sourav+Debnath!;Full+Stack+Developer;MERN+%26+PERN+Specialist;NestJS+%7C+PostgreSQL+%7C+Prisma;" />
 </h1>
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-1A56B0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack-MERN%20%7C%20PERN%20%7C%20NestJS-0ea5e9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-1%2B%20Year-22c55e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Bangladesh-f97316?style=flat-square" />
+</div>
 
 ## 👋 About Me
+
 Hi! I'm Sourav Debnath, a Full Stack Developer and CSE student at Green University of Bangladesh. I specialize in building scalable, high-performance web applications using the MERN stack, PERN stack, and modern backend systems with NestJS. I'm passionate about clean architecture, developer experience, and delivering robust end-to-end solutions.
 
 🔭 Currently building full-stack apps with NestJS + PostgreSQL + Prisma ORM
@@ -107,8 +113,8 @@ Hi! I'm Sourav Debnath, a Full Stack Developer and CSE student at Green Universi
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-
 ## 🔗 Connect with Me
+
 <div align="center">
 <a href="https://github.com/SouravDn-p" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
